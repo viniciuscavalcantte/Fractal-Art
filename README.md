@@ -7,7 +7,7 @@ where Zn is a complex number that represents the current iteration and C is a po
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as you see fit. Refer to the LICENSE file for more details.
 ## Note
-.This project was inspired by the beauty of fractal mathematics.
+This project was inspired by the beauty of fractal mathematics.
 
 
 
